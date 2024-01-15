@@ -1,7 +1,6 @@
 # BTL_Cong_Nghe_JAVA
 
-=> Tải và cài đặt thư viện hỗ trợ:</br>
-https://mega.nz/folder/OyohBTIR#l-0NbnbHu1Zv77GK1JsIVg</br>
+=> Tải và cài đặt thư viện hỗ trợ: https://mega.nz/folder/OyohBTIR#l-0NbnbHu1Zv77GK1JsIVg</br>
 
 => Các bước khởi động project:</br>
 -	B1: Tải 2 file trong đường dẫn trên</br>
